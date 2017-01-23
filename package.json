@@ -1,0 +1,16 @@
+{
+  "name": "@aredridel/helper-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgbtq-technology/helper-components.git"
+  },
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgbtq-technology/helper-components/issues"
+  },
+  "homepage": "https://github.com/lgbtq-technology/helper-components#readme"
+}
